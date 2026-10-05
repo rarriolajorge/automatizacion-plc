@@ -1,9 +1,9 @@
 # 📦 Sistema Automatizado de Clasificación Logística con RFID 
 
 ## 📋 Descripción del Proyecto
-Este proyecto consiste en el diseño, programación y simulación de un **Gemelo Digital (Digital Twin)** para una planta logística de clasificación de paquetería. Desarrollado utilizando **Siemens TIA Portal** y **Factory I/O**, el sistema automatiza el enrutamiento de cajas hacia múltiples líneas de despacho basándose en la información leída por sensores RFID, integrando además un panel de control HMI para su operación.
+Este proyecto consiste en el diseño, programación y simulación de un **Gemelo Digital (Digital Twin)** para una planta logística de clasificación de paquetería. Desarrollado utilizando **Siemens TIA Portal** y **Factory I/O**, el sistema automatiza la recepción de cajas provenientes de tres niveles de alimentación independientes y su posterior enrutamiento hacia múltiples líneas de despacho basándose en la información leída por sensores RFID, integrando además un panel de control HMI para su operación.
 
-El desarrollo se enfoca en resolver desafíos comunes de la automatización industrial, como la gestión de tiempos de ciclo (condiciones de carrera), la robustez de los sensores ante falsos rebotes y la manipulación segura de actuadores neumáticos.
+El desarrollo se enfoca en resolver desafíos comunes de la automatización industrial, como la gestión de tiempos de ciclo (condiciones de carrera), el control de tráfico desde múltiples entradas, la robustez de los sensores ante falsos rebotes y la manipulación segura de actuadores neumáticos.
 
 ## 🛠️ Tecnologías y Entorno
 *   **PLC:** Siemens S7-1500 (CPU 1511-1 PN)
